@@ -13,13 +13,14 @@ if ( ! defined( 'ABSPATH' ) ) {
 ?>
 
 <fieldset id="pagarme-credit-cart-form">
-	<p class="form-row form-row-first">
-		<label for="pagarme-card-holder-name"><?php _e( 'Card Holder Name', 'woocommerce-pagarme' ); ?><span class="required">*</span></label>
-		<input id="pagarme-card-holder-name" class="input-text" type="text" autocomplete="off" style="font-size: 1.5em; padding: 8px;" />
-	</p>
-	<p class="form-row form-row-last">
+	<p class="form-row">
 		<label for="pagarme-card-number"><?php _e( 'Card Number', 'woocommerce-pagarme' ); ?> <span class="required">*</span></label>
 		<input id="pagarme-card-number" class="input-text wc-credit-card-form-card-number" type="text" maxlength="20" autocomplete="off" placeholder="&bull;&bull;&bull;&bull; &bull;&bull;&bull;&bull; &bull;&bull;&bull;&bull; &bull;&bull;&bull;&bull;" style="font-size: 1.5em; padding: 8px;" />
+	</p>
+	<div class="clear"></div>
+	<p class="form-row">
+		<label for="pagarme-card-holder-name"><?php _e( 'Card Holder Name', 'woocommerce-pagarme' ); ?><span class="required">*</span></label>
+		<input id="pagarme-card-holder-name" class="input-text" type="text" autocomplete="off" style="font-size: 1.5em; padding: 8px;" />
 	</p>
 	<div class="clear"></div>
 	<p class="form-row form-row-first">
