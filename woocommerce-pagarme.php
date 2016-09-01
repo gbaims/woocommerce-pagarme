@@ -1,7 +1,7 @@
 <?php
 /**
- * Plugin Name: WooCommerce Pagar.me
- * Plugin URI: http://github.com/claudiosmweb/woocommerce-pagarme
+ * Plugin Name: WooCommerce Pagar.me GB
+ * Plugin URI: http://github.com/gbaims/woocommerce-pagarme-gb
  * Description: Gateway de pagamento Pagar.me para WooCommerce.
  * Author: Pagar.me, Claudio Sanches
  * Author URI: https://pagar.me/

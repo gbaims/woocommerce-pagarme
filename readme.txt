@@ -1,4 +1,4 @@
-=== WooCommerce Pagar.me ===
+=== WooCommerce Pagar.me GB ===
 Contributors: pagarme, claudiosanches
 Tags: woocommerce, pagarme, payment
 Requires at least: 4.0
