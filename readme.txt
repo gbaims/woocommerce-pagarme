@@ -3,7 +3,7 @@ Contributors: pagarme, claudiosanches
 Tags: woocommerce, pagarme, payment
 Requires at least: 4.0
 Tested up to: 4.5
-Stable tag: 2.0.5
+Stable tag: 2.0.6-gb.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -117,6 +117,9 @@ Entre em contato [clicando aqui](http://wordpress.org/support/plugin/woocommerce
 
 == Changelog ==
 
+= 2.0.6-gb.1 - 2016/09/01 =
+
+* Modificação do layout do cartão de crédito para se parecer com um cartão.
 = 2.0.5 - 2016/07/15 =
 
 * Correções para previnir mensagens de erro ao receber notificações de pagamentos.

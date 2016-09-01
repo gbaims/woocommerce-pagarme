@@ -1,7 +1,7 @@
 {
-  "name": "woocommerce-pagarme",
-  "version": "2.0.5",
-  "title": "WooCommerce Pagar.me",
+  "name": "woocommerce-pagarme-gb",
+  "version": "2.0.6-gb.1",
+  "title": "WooCommerce Pagar.me GB",
   "description": "WooCommerce Pagar.me payment gateway",
   "homepage": "",
   "main": "Gruntfile.js",
